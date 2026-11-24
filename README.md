@@ -36,7 +36,7 @@
   <a href="https://mohammed-ghazal.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/mohammed-amin20">
+  <a href="https://github.com/Dev-MohammedAmen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Add your LinkedIn badge here:
@@ -49,5 +49,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-amin20&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-MohammedAmen&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </p>
